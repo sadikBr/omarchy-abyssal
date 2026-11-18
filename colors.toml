@@ -1,0 +1,37 @@
+# Abyssal: an Omarchy theme
+# Deep-ocean navy and teal, lit by bioluminescent cyan with coral accents.
+mode = "dark"
+
+accent = "#4fd4e2"
+selection = "#1b3a4e"
+muted = "#567489"
+
+background = "#0a1620"
+dark_background = "#08121b"
+darker_background = "#060e16"
+lighter_background = "#11232f"
+
+foreground = "#cde2ea"
+dark_foreground = "#7590a2"
+light_foreground = "#a9c4d1"
+bright_foreground = "#eaf7fb"
+
+red = "#f0727c"
+yellow = "#efcf8b"
+orange = "#f59b7c"
+green = "#79d5a5"
+cyan = "#4fd4e2"
+blue = "#5ea9ee"
+magenta = "#b597f2"
+brown = "#8f735f"
+
+bright_red = "#f69ca2"
+bright_yellow = "#f6e0b0"
+bright_green = "#a3e5c2"
+bright_cyan = "#8eeaf1"
+bright_blue = "#90c5f5"
+bright_magenta = "#d0b8f7"
+
+# Window borders: bioluminescent cyan sinking into deep-water blue
+hyprland_active_border = "rgba(4fd4e2ee) rgba(2f7fb8ee) 45deg"
+hyprland_inactive_border = "rgba(1a2e3daa)"
